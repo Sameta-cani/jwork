@@ -1,0 +1,6 @@
+1. workplace에 있는 파일 수정 후 저장
+2. 해당 경로에서 cmd 열고 git status로 상태 확인
+3. git config --global core.autocrlf true 명령어 입력
+4. git add . 입력
+5. git commit -m "message"
+6. git push origin master 입력 
