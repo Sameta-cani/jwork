@@ -23,6 +23,7 @@ datasets/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 git_test.ipynb
+BDAA_Conf_DA.ipynb
 # IPython
 profile_default/
 ipython_config.py
