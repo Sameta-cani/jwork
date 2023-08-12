@@ -18,6 +18,7 @@ datasets/
 GAN/
 GDL_code/
 GDL_PR/
+.gitignore
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
