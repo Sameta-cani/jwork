@@ -15,6 +15,9 @@
 *.vcf
 *.xml
 datasets/
+GAN/
+GDL_code/
+GDL_PR/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
